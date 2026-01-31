@@ -1,5 +1,5 @@
 title = "Ames Turner"
-baseURL = 'https://example.com/'
+baseURL = 'https://ames-t.github.io/blog/'
 
 # This is what goes in <html lang="">
 languageCode = 'en-gb'
@@ -99,9 +99,9 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
+  intro = "Ames' Blog"
   name = "Ames Turner"
-  description = "Ames' Blog"
+  description = "A place for my ramblings"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
